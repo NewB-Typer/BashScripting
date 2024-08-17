@@ -1,0 +1,4 @@
+I am a text file for playing around with bashscripting.
+Apple
+Battle
+Corkscrew
